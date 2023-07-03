@@ -26,5 +26,5 @@ You can find more information about the data set here: [2019 Airbnb Dataset NYC]
 * The top three locations with the highest count of homes available: Williamsburg, Bedford-Stuyvesant, and Harlem.
 * Brooklyn has the most private rooms available, with nearly 10,000 listings.
 * Manhattan has the most "entire home/apt" option available for travelers interested in renting the entire property.
-* Manhattan also has the most "shared-room" option, for travelers that are interested in sharing a room with other people.
+* Manhattan has the most "shared-room" option, for travelers that are interested in sharing a room with other people.
 
