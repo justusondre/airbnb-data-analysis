@@ -21,10 +21,10 @@ You can find more information about the data set here: [2019 Airbnb Dataset NYC]
 
 * The average cost per night for an Airbnb in New York City is $152.72 during 2019.
 * The highest price you can spend for an Airbnb in New York City is $10,000.00
-* The top most expensive homes can be located in the Manhattan neigbourhood group.
-* The top least expensive homes can be located in the Brooklyn neigbourhood.
-* The top three locations with the highest amount of homes are Williamsburg, Bedford-Stuyvesant, and Harlem.
+* The top most expensive homes are located in the Manhattan neigbourhood group.
+* The top least expensive homes are located in the Brooklyn neigbourhood.
+* The top three locations with the highest count of homes available: Williamsburg, Bedford-Stuyvesant, and Harlem.
 * Brooklyn has the most private rooms available, with nearly 10,000 listings.
-* Manhattan has the most "entire home/apt" option available for travelers interested in renting a private room.
+* Manhattan has the most "entire home/apt" option available for travelers interested in renting the entire property.
 * Manhattan also has the most "shared-room" option, for travelers that are interested in sharing a room with other people.
 
